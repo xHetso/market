@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1838" height="368" viewBox="0 0 1838 368">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 150px;
+        text-anchor: middle;
+        font-family: "Myriad Pro";
+        font-weight: 700;
+        font-variant: small-caps;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="NEXUS" class="cls-1" transform="matrix(2.204, 0, 0, 2.204, 1166.731, 295.522)"><tspan x="0">NEXUS</tspan></text>
+  <path id="Прямоугольник_1" data-name="Прямоугольник 1" class="cls-2" d="M171.559,70.428H490.926v55.209H171.559V70.428Z"/>
+  <rect id="Прямоугольник_1-2" data-name="Прямоугольник 1" class="cls-3" x="171.562" y="242.438" width="319.376" height="55.187"/>
+  <circle id="Эллипс_1" data-name="Эллипс 1" class="cls-3" cx="406.5" cy="184.5" r="40.5"/>
+</svg>
